@@ -44,7 +44,7 @@ HTMLを表示する際に、各パーツごとに左右からビューン、と�
           },
           wait: true
         }, {
-          element: '.row-fluid .span4:eq(5)',
+          element: '.navbar',
           from: { top: -1 },
           rotate: { rev: 3, type: 'X', direction: 'left' },
           easing: 'easeOutBounce',
