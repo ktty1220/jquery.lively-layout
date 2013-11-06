@@ -14,7 +14,7 @@ HTMLを表示する際に、各パーツごとに左右からビューン、と�
 
         <script type="text/javascript" src="/path/to/jquery.js"></script>
         <script type="text/javascript" src="/path/to/jquery.easing.js"></script>
-        <script type="text/javascript" src="/path/to/jquery.popn-socialbutton.js"></script>
+        <script type="text/javascript" src="/path/to/jquery.lively-layout.js"></script>
 
 2. アニメーション表示させたい要素をCSSで`visibility: hidden`で非表示状態にしておきます。
 
