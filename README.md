@@ -2,7 +2,7 @@
 
 HTMLを表示する際に、各パーツごとに左右からビューン、とか上からドスーンみたいなアニメーションを指定できるjQueryプラグインです。
 
-[BootStrapのレイアウトを使用したデモ](http://ktty1220.ap01.aws.af.cm/jquery.lively-layout/demo.html)
+[BootStrapのレイアウトを使用したデモ](http://ktty1220.github.io/jquery.lively-layout/demo.html)
 
 動きのあるHTMLを実装したい場合にどうそ。でもやりすぎると鬱陶しいかもしれません・・・
 
